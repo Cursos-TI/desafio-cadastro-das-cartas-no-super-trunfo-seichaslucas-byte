@@ -1,14 +1,12 @@
 #include <stdio.h>
 int main(){
-    char Estado;
-    char Código[]("")
+    int populacao, PontosTuristicos;
+    float Area, Pib;
+    
 
-    
-    
-    printf("Desafio Super Trunfo!\n");
-    printf("Carta 1\n");
-    char Estado
-    
+
+    return 0;
+
 
 
 
