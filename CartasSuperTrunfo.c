@@ -5,7 +5,7 @@ int main(){
     char nome[50];
     
     
-    printf("Desafio Jogo Trunfo\n Carta 1\n");
+    printf("Desafio Jogo Super Trunfo\n Carta 1\n");
     printf("Estado:");
     scanf("%s", &nome);
     
